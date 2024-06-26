@@ -83,4 +83,14 @@ João Costa - Nº 2181623
 - [3.2 Adicionar Fornecedor]
   
 ## Implementation - Workloads
+## Implementation - Workloads
+Caio Barbosa - Nº 2221866
+- "PartnerPanel" and respetive methods
+- 
+-  
 
+
+Jorge Gonçalves - Nº 2222181
+- "Supplier" and respetive methods
+  
+João Costa - Nº 2181623
