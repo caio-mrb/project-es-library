@@ -50,7 +50,7 @@ Jorge Gonçalves - Nº 2222181
 - [1.5 Adicionar Novo Emprestimo] (https://online.visual-paradigm.com/community/share/1-5-adicionar-novo-emprestimo-1t24p2xace)
 - [2.2 Adicionar Exemplar] (https://online.visual-paradigm.com/community/share/2-2-adicionar-exemplar-1t25157b33)
 - [2.5 Top Requisições] (https://online.visual-paradigm.com/community/share/2-5-top-requisi-es-1t256aiorv)
-- [3.3 Editar Fornecedores]
+- [3.3 Editar Fornecedores] (https://online.visual-paradigm.com/community/share/3-3-editar-fornecedor-1t27p1rrfa)
   
 João Costa - Nº 2181623
 - [1.3 Desativar Sócio] (https://online.visual-paradigm.com/community/share/1-3-desativar-s-cio-1t24mk80p3)
