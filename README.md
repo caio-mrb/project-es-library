@@ -56,8 +56,8 @@ João Costa - Nº 2181623
 - [1.3 Desativar Sócio] (https://online.visual-paradigm.com/community/share/1-3-desativar-s-cio-1t24mk80p3)
 - [1.6 Devolução Emprestimo] (https://online.visual-paradigm.com/community/share/1-6-devolu-o-emprestimo-1t24qmucnc)
 - [2.3 Editar Exemplar] (https://online.visual-paradigm.com/community/share/2-3-editar-exemplar-1t252d61ai)
-- [3.1 Pesquisa Fornecedores]
-- [3.2 Adicionar Fornecedor]
+- [3.1 Pesquisa Fornecedores] (https://online.visual-paradigm.com/community/share/3-1-pesquisa-fornecedor-1t27ll1hz3)
+- [3.2 Adicionar Fornecedor] (https://online.visual-paradigm.com/community/share/3-2-adicionar-fornecedor-1t27j8u2al)
   
 ## Use Case Text Primary/Secundary
 - 3 PDFs uploaded in Github Project folder
